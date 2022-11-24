@@ -1,0 +1,445 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.14f1 (d0d1bb862f9d) revision 13685179'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 22621.819; Version 2009; 64bit' Language: 'en' Physical Memory: 15977 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.14f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Course/3D Game/2D Game
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53040
+Successfully changed project path to: E:/Course/3D Game/2D Game
+E:/Course/3D Game/2D Game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 33.31 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.14f1 (d0d1bb862f9d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Course/3D Game/2D Game/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics (ID=0x9b41)
+    Vendor:   
+    VRAM:     7988 MB
+    Driver:   26.20.100.7985
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56560
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001233 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 36.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.860 seconds
+Domain Reload Profiling:
+	ReloadAssembly (860ms)
+		BeginReloadAssembly (42ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (377ms)
+			LoadAssemblies (41ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (139ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (144ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (37ms)
+				BeforeProcessingInitializeOnLoad (12ms)
+				ProcessInitializeOnLoadAttributes (67ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001920 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 34.23 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.980 seconds
+Domain Reload Profiling:
+	ReloadAssembly (981ms)
+		BeginReloadAssembly (126ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (800ms)
+			LoadAssemblies (72ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (259ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (314ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (34ms)
+				BeforeProcessingInitializeOnLoad (75ms)
+				ProcessInitializeOnLoadAttributes (185ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2084 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.9 MB.
+System memory in use after: 92.9 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2517.
+Total: 2.026700 ms (FindLiveObjects: 0.203600 ms CreateObjectMapping: 0.086900 ms MarkObjects: 1.626100 ms  DeleteObjects: 0.109200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/2 Punk/Punk_attack1.png
+  artifactKey: Guid(ef456776b1bc1034f829f94f1128878b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2 Punk/Punk_attack1.png using Guid(ef456776b1bc1034f829f94f1128878b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9578cd17e386c5af49c4f753fa0c0986') in 0.099391 seconds 
+  Import took 0.102115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/2 Punk/Punk_attack3.png
+  artifactKey: Guid(4fd558d2e4e5aa94cbdeba66d261f979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2 Punk/Punk_attack3.png using Guid(4fd558d2e4e5aa94cbdeba66d261f979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6c34b5b8f4e55e709f713000b26de5b') in 0.019477 seconds 
+  Import took 0.022188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/2 Punk
+  artifactKey: Guid(c6a9a1c7c90ce3d44b2275eac98f601d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2 Punk using Guid(c6a9a1c7c90ce3d44b2275eac98f601d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fffb8056d62b1a63f579035efe02cf5') in 0.004112 seconds 
+  Import took 0.007213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/2 Punk/Punk_climb.png
+  artifactKey: Guid(e994fe50f470ecb46abaa61c61d140bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2 Punk/Punk_climb.png using Guid(e994fe50f470ecb46abaa61c61d140bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '555a66c5aeaf8d96cc89e1a7d4ac61f9') in 0.022660 seconds 
+  Import took 0.026232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/2 Punk/Punk_hurt.png
+  artifactKey: Guid(fa0475b1a6263ab4bbe4e28e6c03c5c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2 Punk/Punk_hurt.png using Guid(fa0475b1a6263ab4bbe4e28e6c03c5c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba4a87cac4c04339eb62dba9dbf15657') in 0.017574 seconds 
+  Import took 0.021530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/2 Punk/Punk_run.png
+  artifactKey: Guid(a28c97e2fac2d484bb178493cafaa1c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2 Punk/Punk_run.png using Guid(a28c97e2fac2d484bb178493cafaa1c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc334c5ae095e70e21b18b80e52b8ac1') in 0.017489 seconds 
+  Import took 0.021309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/2 Punk/Punk_attack2.png
+  artifactKey: Guid(610d8a703ae4ced4793b7d7a5c36e4d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2 Punk/Punk_attack2.png using Guid(610d8a703ae4ced4793b7d7a5c36e4d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f570a74eb050c811fb285f844180fa2') in 0.020546 seconds 
+  Import took 0.024161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/2 Punk/Punk_punch.png
+  artifactKey: Guid(7d654eb34579edd4db9ceb88efb2c619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2 Punk/Punk_punch.png using Guid(7d654eb34579edd4db9ceb88efb2c619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93393390f729679b91cb49a1ad1cec49') in 0.017304 seconds 
+  Import took 0.020536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/2 Punk/Punk_death.png
+  artifactKey: Guid(215f3c2370a186b4c96c041e8b583e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2 Punk/Punk_death.png using Guid(215f3c2370a186b4c96c041e8b583e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38eb2db303fe7fba5be8b116926de9bc') in 0.020403 seconds 
+  Import took 0.024294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/2 Punk/Punk_doublejump.png
+  artifactKey: Guid(b4e84143036ebbe4396076e3a7c97144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2 Punk/Punk_doublejump.png using Guid(b4e84143036ebbe4396076e3a7c97144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce09609218a9b33e230043e28decdda9') in 0.018443 seconds 
+  Import took 0.022405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/2 Punk/Punk_jump.png
+  artifactKey: Guid(3ec902b676d7533498068de68614a226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2 Punk/Punk_jump.png using Guid(3ec902b676d7533498068de68614a226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec6e3d6f59e3efb84d388d803a151e17') in 0.028941 seconds 
+  Import took 0.032125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/2 Punk/Punk_idle.png
+  artifactKey: Guid(6f1ab9a481874a645af318e363885e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2 Punk/Punk_idle.png using Guid(6f1ab9a481874a645af318e363885e06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86239a9a2e17c7a736af4b4a64762ab7') in 0.020811 seconds 
+  Import took 0.023491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/2 Punk/Punk_run_attack.png
+  artifactKey: Guid(0cda3f5be19f39446ba835c37b988928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2 Punk/Punk_run_attack.png using Guid(0cda3f5be19f39446ba835c37b988928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d2fe197a67bc0c6bd5b902c8e106e77') in 0.016394 seconds 
+  Import took 0.019750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.325824 seconds.
+  path: Assets/Backgrounds/Cyber_1.jpg
+  artifactKey: Guid(5bdca72a0a735a446aee06fd9f183fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Backgrounds/Cyber_1.jpg using Guid(5bdca72a0a735a446aee06fd9f183fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1e616eafb318d535e97da79fbe6da3b') in 0.016146 seconds 
+  Import took 0.019967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.395764 seconds.
+  path: Assets/Backgrounds/Cyber_2.webp
+  artifactKey: Guid(38dcc6ccc0b45b1409c15be492897fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Backgrounds/Cyber_2.webp using Guid(38dcc6ccc0b45b1409c15be492897fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89dbca32765a9ae245b4fb83494faa24') in 0.019228 seconds 
+  Import took 0.022849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 176.619404 seconds.
+  path: Assets/Backgrounds/Cyber_2.png
+  artifactKey: Guid(4835a6425e5b16e45be504f8218c8a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Backgrounds/Cyber_2.png using Guid(4835a6425e5b16e45be504f8218c8a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f3dbe865bb6d1d498087d7e6ec49304') in 0.015776 seconds 
+  Import took 0.019469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011718 seconds.
+  path: Assets/Backgrounds/Cyber_2.png
+  artifactKey: Guid(4835a6425e5b16e45be504f8218c8a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Backgrounds/Cyber_2.png using Guid(4835a6425e5b16e45be504f8218c8a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f3dbe865bb6d1d498087d7e6ec49304') in 0.014731 seconds 
+  Import took 0.018634 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002028 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.882 seconds
+Domain Reload Profiling:
+	ReloadAssembly (882ms)
+		BeginReloadAssembly (103ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (726ms)
+			LoadAssemblies (70ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (254ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (266ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (75ms)
+				ProcessInitializeOnLoadAttributes (177ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2079 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2537.
+Total: 1.888600 ms (FindLiveObjects: 0.173600 ms CreateObjectMapping: 0.070800 ms MarkObjects: 1.558200 ms  DeleteObjects: 0.084800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1302.366651 seconds.
+  path: Assets/3 Cyborg/Cyborg_attack1.png
+  artifactKey: Guid(3e8b4be43aab81841a771b3022432040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 Cyborg/Cyborg_attack1.png using Guid(3e8b4be43aab81841a771b3022432040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7d41dba5c896b20dd3dfac38d54f59f') in 0.055920 seconds 
+  Import took 0.061971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/3 Cyborg/Cyborg_idle.png
+  artifactKey: Guid(421c33e8494ccd645b40ad2a7c9d2fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 Cyborg/Cyborg_idle.png using Guid(421c33e8494ccd645b40ad2a7c9d2fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea7d9fb3993c31dcbcf9689ad0de9ba3') in 0.022870 seconds 
+  Import took 0.025539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/3 Cyborg/Cyborg_doublejump.png
+  artifactKey: Guid(4a86189bbc611504b9f53959c23180c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 Cyborg/Cyborg_doublejump.png using Guid(4a86189bbc611504b9f53959c23180c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45f1eb9d98cb05e19bd5800eb98a6773') in 0.017637 seconds 
+  Import took 0.020298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/3 Cyborg/Cyborg_run_attack.png
+  artifactKey: Guid(c299749976f81884eba4c4b0cbd06c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 Cyborg/Cyborg_run_attack.png using Guid(c299749976f81884eba4c4b0cbd06c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be134d5cc734e0767ff45ab4666823fd') in 0.016478 seconds 
+  Import took 0.019679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/3 Cyborg/Cyborg_attack3.png
+  artifactKey: Guid(e697f17d1ab67a944893b042f3e7ec10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 Cyborg/Cyborg_attack3.png using Guid(e697f17d1ab67a944893b042f3e7ec10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96475c959dbc6feac1af378a87fbf6a6') in 0.021256 seconds 
+  Import took 0.024106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/3 Cyborg/Cyborg_death.png
+  artifactKey: Guid(48a211a6a13839d43bccc908bcfa5168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 Cyborg/Cyborg_death.png using Guid(48a211a6a13839d43bccc908bcfa5168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e58270ef47f7f15cf54a2cbc08d5ada') in 0.019201 seconds 
+  Import took 0.021927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/3 Cyborg/Cyborg_hurt.png
+  artifactKey: Guid(3fef730271011fc4b904384e46da09b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 Cyborg/Cyborg_hurt.png using Guid(3fef730271011fc4b904384e46da09b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dccce1658b17c5d553d119a8849859d9') in 0.015988 seconds 
+  Import took 0.019406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/3 Cyborg/Cyborg_jump.png
+  artifactKey: Guid(29e631ff69880cc479834d3b7fa63ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 Cyborg/Cyborg_jump.png using Guid(29e631ff69880cc479834d3b7fa63ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '781969f27c6af3cd082a627a64acb948') in 0.020260 seconds 
+  Import took 0.023203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/3 Cyborg/Cyborg_climb.png
+  artifactKey: Guid(fd864120da6a9e142a6a094bb8f01e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 Cyborg/Cyborg_climb.png using Guid(fd864120da6a9e142a6a094bb8f01e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4e4c3182c6ca50150cfd1efa68065dc') in 0.018820 seconds 
+  Import took 0.021698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/3 Cyborg/Cyborg_punch.png
+  artifactKey: Guid(c68dee317bccb6441b28c3006bb814bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 Cyborg/Cyborg_punch.png using Guid(c68dee317bccb6441b28c3006bb814bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5578dd774000f014cc73e4708ada2c6') in 0.017307 seconds 
+  Import took 0.020527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/3 Cyborg/Cyborg_run.png
+  artifactKey: Guid(eaca17b238f2d4c4b9f99826815b95b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 Cyborg/Cyborg_run.png using Guid(eaca17b238f2d4c4b9f99826815b95b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb58b46fe603f68467f251671360b1fd') in 0.017266 seconds 
+  Import took 0.020236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/3 Cyborg/Cyborg_attack2.png
+  artifactKey: Guid(fe03fa99a823f3e4793da476ca79a117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3 Cyborg/Cyborg_attack2.png using Guid(fe03fa99a823f3e4793da476ca79a117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7238e8e070fedbf1cac1aa843806c1bb') in 0.020892 seconds 
+  Import took 0.023855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 957.629340 seconds.
+  path: Assets/1 Biker/Attack_1.anim
+  artifactKey: Guid(64eb6b6de1da44d4aaeac39186efb4e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1 Biker/Attack_1.anim using Guid(64eb6b6de1da44d4aaeac39186efb4e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a476ae5db0ea90fd1acb36ef7c87476d') in 0.007693 seconds 
+  Import took 0.011828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001342 seconds.
+  path: Assets/1 Biker/Attack_1.anim
+  artifactKey: Guid(64eb6b6de1da44d4aaeac39186efb4e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1 Biker/Attack_1.anim using Guid(64eb6b6de1da44d4aaeac39186efb4e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a476ae5db0ea90fd1acb36ef7c87476d') in 0.001896 seconds 
+  Import took 0.005529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.044719 seconds.
+  path: Assets/1 Biker/Biker_attack1_0.controller
+  artifactKey: Guid(25b3e9227b952d1499fc3d4752141b61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/1 Biker/Biker_attack1_0.controller using Guid(25b3e9227b952d1499fc3d4752141b61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7b375ad3bf1a7c3ecdb6898124280f1') in 0.008054 seconds 
+  Import took 0.011361 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
